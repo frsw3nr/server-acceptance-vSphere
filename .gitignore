@@ -1,0 +1,10 @@
+.gradle
+.gradletasknamecache
+.mtj.tmp/
+/libdeps/
+/resource/
+build/*
+!.gitkeep
+gradle-app.setting
+gradle.properties
+.~lock*
